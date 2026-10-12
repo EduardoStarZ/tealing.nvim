@@ -2,6 +2,7 @@ local lush = require('lush')
 local hsl = lush.hsl 
 
 local teal  =		hsl("#006D5B")
+local light =		hsl("#00C4A4")
 local pine =		hsl("#44856C")
 local orange =		hsl("#B86539") 
 local red  =		hsl("#B8393A")  
